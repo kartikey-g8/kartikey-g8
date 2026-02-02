@@ -7,7 +7,7 @@
 
 ## 🧠 About Me  
 Hi there! I’m Kartikey, a Computer Science Engineering undergraduate at **Thapar Institute of Engineering and Technology** (CGPA: 9.0/10) with a strong interest in machine learning, computer vision, and data analytics.  
-I enjoy working on projects that bridge data, automation, and real-world problem solving, especially in healthcare and AI-powered applications.
+I enjoy working on projects that bridge data, automation, and real-world problem solving.
 
 ---
 
@@ -60,7 +60,7 @@ I enjoy working on projects that bridge data, automation, and real-world problem
 ## 💼 Experience  
 
 ### 🧩 Neuro Gait Eye, Thapar University — *Summer Intern (Jun – Jul 2025)*  
-- Analyzed Vertical Electrooculography (VEOG) data from 30+ Parkinson’s patients to study ocular movement patterns.  
+- Analyzed Vertical Electrooculography (VEOG) data from 35+ Parkinson’s patients to study ocular movement patterns.  
 - Built machine learning models (Linear Regression, Random Forest, Neural Networks) for predictive assessment.  
 - Improved automated eye assessment accuracy by 15% compared to baseline models.
 
