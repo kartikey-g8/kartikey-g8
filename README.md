@@ -1,104 +1,105 @@
 # 👋 Hey, I’m Kartikey Gupta  
 
-**Machine Learning & Data Analytics Enthusiast | Computer Vision Developer | Software Engineering Student**  
-*Building intelligent systems that combine data, vision, and scalable software*
+### Machine Learning & Data Science Enthusiast | Data Analytics  
+**CSE @ Thapar Institute of Engineering and Technology (CGPA: 9.0/10)**  
+
+Building intelligent systems that combine data, machine learning, and scalable software.
 
 ---
 
 ## 🧠 About Me  
-Hi there! I’m Kartikey, a Computer Science Engineering undergraduate at **Thapar Institute of Engineering and Technology** (CGPA: 9.0/10) with a strong interest in machine learning, computer vision, and data analytics.  
-I enjoy working on projects that bridge data, automation, and real-world problem solving.
+
+Hi! I’m Kartikey, a Computer Science undergraduate passionate about **Machine Learning, Data Science, and Data Analytics**.
+
+I enjoy transforming raw data into meaningful insights and real-world solutions. From analyzing healthcare signals to building AI-powered systems and intelligent dashboards, I focus on creating solutions that are practical, scalable, and impactful.
+
+I’m particularly interested in improving model performance, working with real datasets, and building end-to-end systems that combine analytics with intelligent decision-making.
 
 ---
 
-## 💡 Currently Exploring  
-- Machine Learning model optimization & evaluation  
-- Computer Vision for posture and emotion analysis  
-- Data analytics and visualization  
-- Scalable backend systems & APIs  
+## 💼 Work Experience  
 
----
+### 🧩 Neuro Gait Eye — Summer Intern (June–July 2025)
 
-## 🧩 Tech Stack  
-
-### 📝 Languages  
-- Python  
-- C++  
-- SQL  
-
-### 🤖 Machine Learning & Data  
-- Scikit-learn  
-- TensorFlow (basics)  
-- Feature Engineering  
-- Model Evaluation  
-
-### 👁️ Computer Vision  
-- OpenCV  
-- MediaPipe (posture & emotion analysis)  
-
-### 📊 Data Analytics & Visualization  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Excel  
-- Tableau  
-- Power BI  
-
-### 🌐 Web & Backend (Learning & Projects)  
-- Flask  
-- MERN Stack (basic APIs & integrations)  
-
-### 🛠️ Tools  
-- Git  
-- GitHub  
-- Docker (basics)  
-- Jupyter Notebook  
-- Google Colab  
-
----
-
-## 💼 Experience  
-
-### 🧩 Neuro Gait Eye, Thapar University — *Summer Intern (Jun – Jul 2025)*  
-- Analyzed Vertical Electrooculography (VEOG) data from 35+ Parkinson’s patients to study ocular movement patterns.  
-- Built machine learning models (Linear Regression, Random Forest, Neural Networks) for predictive assessment.  
-- Improved automated eye assessment accuracy by 15% compared to baseline models.
+- Designed and evaluated a multimodal diagnostic pipeline for early Parkinson’s detection using voice recordings and hand tremor (IMU) signals  
+- Built CNN-based voice models and DNN-based tremor models using supervised learning  
+- Performed signal preprocessing, feature engineering, and model evaluation using Python, NumPy, and Pandas  
+- Implemented weighted model fusion and achieved **91% diagnostic accuracy**
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🤖 AI-Powered E-Commerce Platform (MERN Stack)  
-Full-stack e-commerce system with 30+ REST APIs and multiple AI-powered features such as voice search, chatbot support, personalized recommendations, and image-based search.  
-**Tech:** MongoDB, Express.js, React.js, Node.js, Python, TensorFlow  
+### 🤖 AI-Powered E-Commerce Platform — Walmart Sparkathon  
 
----
+- Developed 4 AI-driven modules:
+  - 🎙 Voice-based product search  
+  - 🖼 Image-based product retrieval (deep feature embeddings + similarity matching)  
+  - 🤝 Personalized recommendation system (collaborative filtering)  
+  - 💬 Conversational AI chatbot  
+- Built AI inference microservices using Flask  
+- Integrated AI modules with MERN stack backend  
 
-### 🧍 Wellness Monitor — Computer Vision Application  
-Real-time posture and emotion monitoring system using webcam input.  
-Computes posture metrics (neck angle, shoulder tilt, back alignment) and classifies facial emotions to generate a unified wellness score with live dashboard updates.  
-**Tech:** Python, Flask, MediaPipe, OpenCV, TensorFlow  
+**Tech:** MongoDB, Express.js, React.js, Node.js, Python, TensorFlow, scikit-learn  
 
 ---
 
 ### 🧬 Machine Learning for Parkinson’s Disease Assessment  
-Processed clinical VEOG data from 35+ patients and trained ML classifiers to identify early Parkinson’s markers with 87% predictive accuracy, improving diagnostic benchmarks by 15%.  
-**Tech:** Python, Pandas, NumPy, Scikit-learn  
+
+- Developed a machine learning framework combining voice and tremor data  
+- Trained CNN and DNN models using TensorFlow and scikit-learn  
+- Designed weighted probability fusion pipeline (60% voice, 40% tremor)  
+- Achieved up to **91% diagnostic accuracy**
+
+**Tech:** Python, TensorFlow, scikit-learn, NumPy, Pandas  
 
 ---
 
-## 🏆 Achievements  
-- Internship – Neuro Gait Eye Research Project  
-- Multiple end-to-end AI and full-stack projects  
-- Strong academic performance (CGPA 9.0/10)
+### 🧍 Wellness Monitor — Computer Vision Application  
+
+- Built a real-time posture and emotion monitoring system  
+- Used MediaPipe to compute posture metrics (neck angle, shoulder tilt, back alignment)  
+- Classified 5 facial emotion categories using TensorFlow  
+- Created a modular detection pipeline and wellness scoring engine  
+- Enabled real-time dashboard updates and automated CSV/JSON exports  
+
+**Tech:** Python, Flask, MediaPipe, OpenCV, TensorFlow  
 
 ---
 
-## 🤝 Connect with Me  
-- 📧 Email: **kartikeyggo@gmail.com**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/kartikey-gupta-a6bb71299**  
-- 🐙 GitHub: **https://github.com/kartikey-g8**
+## 🧩 Technical Skills  
+
+### 💻 Programming  
+- Python  
+- C++  
+- SQL  
+
+### 📊 Data Science & Analytics  
+- Data Cleaning  
+- Feature Engineering  
+- Exploratory Data Analysis (EDA)  
+- Supervised Learning  
+- Statistical Analysis  
+- Model Evaluation  
+- NumPy  
+- Pandas  
+- SciPy  
+- scikit-learn  
+- TensorFlow  
+
+### 🛠 Tools  
+- Git  
+- GitHub  
+- Docker  
 
 ---
 
-⭐ *“Turning data and code into intelligent systems that learn, predict, and improve lives.”*
+## 🤝 Connect With Me  
+
+📧 Email: kartikeyggo@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/kartikey-gupta-a6bb71299  
+🐙 GitHub: https://github.com/kartikey-g8  
+
+---
+
+⭐ *Turning data into insights and ideas into intelligent systems.*
